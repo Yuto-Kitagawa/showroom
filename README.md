@@ -20,8 +20,8 @@ C:> go version
 
 <br>
 
-![](./src/PATH.png)
->環境変数にGOPATHが生成される。
+![](./PATH.png)
+- 環境変数にGOPATHが生成される。
 
 
 # 2.サーバー用ファイルの準備
